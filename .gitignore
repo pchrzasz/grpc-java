@@ -34,5 +34,11 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
-# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
-# gradle/wrapper/gradle-wrapper.properties
+.idea
+.idea/vcs.xml
+ssl/ca.crt
+ssl/ca.key
+ssl/server.crt
+ssl/server.csr
+ssl/server.key
+ssl/server.pem
